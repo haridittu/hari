@@ -1,4 +1,4 @@
-## Hi there, I'm [Hari Kumar](https://kishanlal.tech/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm [Hari Kumar] <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
@@ -8,12 +8,12 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<em> Want to know more about me? [Click here](https://kishanlal.tech/) </em>
+<em> Want to know more about me?  </em>
 <em>
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I have worked Audit Analyst at [Gland Pharma](https://www.presidio.com/);
+- 👨🏽‍💻 I have worked Audit Analyst at [Gland Pharma](https://www.GlandPharma.com/);
 - 💼 I’m currently looking for job as Data analyst and Data Scientist
 - 🤔 My interests are with Data Science 🖥️, Finance 📊...etc,
 - 🎬 I love watching Documentaries and I'm a big fan of Mike Malonney 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href = "https://github.com/haridittu">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=haridittu&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
@@ -52,7 +52,7 @@
 
 <p align="center">
 <a href = "https://github.com/haridittu">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=haridittu&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
 
