@@ -58,5 +58,5 @@
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-hari%20dittu-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hari-kumar-5b79251b3hari-kumar-5b79251b3/)](https://www.linkedin.com/in/hari-kumar/)    [![GitHub Badge](https://img.shields.io/badge/-@haridittu-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/haridittu)](https://github.com/haridittu) [![Gmail Badge](https://img.shields.io/badge/-@haridittu-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:haridittu@gmail.com)](mailto:haridittu@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-hari%20dittu-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hari-kumar-5b79251b3hari-kumar-5b79251b3/)](https://www.linkedin.com/in/hari-kumar-5b79251b3/)    [![GitHub Badge](https://img.shields.io/badge/-@haridittu-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/haridittu)](https://github.com/haridittu) [![Gmail Badge](https://img.shields.io/badge/-@haridittu-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:haridittu@gmail.com)](mailto:haridittu@gmail.com)
 
