@@ -16,7 +16,7 @@
 - 👨🏽‍💻 I have worked Audit Analyst at [Gland Pharma](https://www.GlandPharma.com/);
 - 💼 I’m currently looking for job as Data analyst and Data Scientist
 - 🤔 My interests are with Data Science 🖥️, Finance 📊...etc,
-- 🎬 I love watching Documentaries and I'm a big fan of Mike Malonney 
+- 🎬 I love watching Documentaries and Movies
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via haridittu@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/hari-kumar-5b79251b3/) to reach me;
 <br/> 
