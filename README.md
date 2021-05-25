@@ -1,4 +1,4 @@
-## Hi there, I'm [Hari Kumar](https://paufs6swkfepyvohjlej9g-on.drv.tw/www.haridittu.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm [Hari Kumar](https://pnjrkafmfutfbnzovrhjxw-on.drv.tw/www.haridittu.co/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
@@ -8,13 +8,13 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<em> Want to know more about me?[Click here](https://paufs6swkfepyvohjlej9g-on.drv.tw/www.haridittu.com/)!</em>
+<em> Want to know more about me?[Click here](https://pnjrkafmfutfbnzovrhjxw-on.drv.tw/www.haridittu.co/)!</em>
 <em>
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I have worked Audit Analyst at [Gland Pharma](https://www.GlandPharma.com/);
-- 💼 I’m currently looking for job as Data analyst and Data Scientist
+- 💼 I’m currently looking for job as Data analyst and Finance Analyst
 - 🤔 My interests are with Data Science 🖥️, Finance 📊...etc,
 - 🎬 I love watching Documentaries and Movies
 - 💬 Ask me about anything, I am happy to help;
@@ -35,9 +35,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="r"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="aws-rds"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
 ### GitHub Stats
